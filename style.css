@@ -1,0 +1,52 @@
+.green{
+    background: green;
+}
+
+
+td{
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    /* border-solid: solid; */
+}
+
+.palpite{
+    background: transparent;
+
+}
+
+.dica{
+    background: maroon;
+}
+
+.red{
+    background:red;
+}
+
+.blue{
+    background:blue;
+}
+
+.violet{
+    background:violet;
+}
+
+.pink{
+    background:pink;
+}
+
+.yellow{
+    background:yellow;
+}
+
+.gray{
+    background:grey;
+}
+
+.lightcoral{
+    background:lightcoral;
+}
+
+.mediumblue{
+    background:mediumblue;
+}
