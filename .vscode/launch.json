@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open Atividade8.html",
+            "file": "c:\\Users\\valer\\OneDrive\\Área de Trabalho\\UFJF ERE 2021.1\\Programação web\\Atividade 8\\dcc121-2021-1er-atv8-vsantosUFJF-main\\Atividade8.html"
+        }
+    ]
+}

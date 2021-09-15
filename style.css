@@ -7,18 +7,23 @@ td{
     height: 48px;
     width: 48px;
     border-radius: 50%;
-    /* border-solid: solid; */
+}
+
+table{
+    margin-right: auto;
+     margin-left: auto;
+     margin-top: 40px;
 }
 
 .palpite{
     background: transparent;
-
 }
 
 .dica{
     background: maroon;
 }
 
+/* inicio cores jogo */
 .red{
     background:red;
 }
@@ -29,10 +34,6 @@ td{
 
 .violet{
     background:violet;
-}
-
-.pink{
-    background:pink;
 }
 
 .yellow{
@@ -46,7 +47,21 @@ td{
 .lightcoral{
     background:lightcoral;
 }
+/* fim cores jogo */
 
-.mediumblue{
-    background:mediumblue;
+
+/* inicio cores das dicas */
+.black{
+    background:black;
+}
+
+.white{
+    background:white;
+}
+
+/* fim cores das dicas */
+
+
+.escondido{
+    background: transparent;
 }
